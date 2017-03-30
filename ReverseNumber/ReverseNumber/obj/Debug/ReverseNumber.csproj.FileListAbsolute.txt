@@ -1,0 +1,6 @@
+c:\users\brett\documents\visual studio 2015\Projects\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+c:\users\brett\documents\visual studio 2015\Projects\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.exe
+c:\users\brett\documents\visual studio 2015\Projects\ReverseNumber\ReverseNumber\bin\Debug\ReverseNumber.pdb
+c:\users\brett\documents\visual studio 2015\Projects\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.exe
+c:\users\brett\documents\visual studio 2015\Projects\ReverseNumber\ReverseNumber\obj\Debug\ReverseNumber.pdb

@@ -1,0 +1,6 @@
+c:\users\brett\documents\visual studio 2015\Projects\TimeBetweenTwoDates\TimeBetweenTwoDates\bin\Debug\TimeBetweenTwoDates.exe.config
+c:\users\brett\documents\visual studio 2015\Projects\TimeBetweenTwoDates\TimeBetweenTwoDates\bin\Debug\TimeBetweenTwoDates.exe
+c:\users\brett\documents\visual studio 2015\Projects\TimeBetweenTwoDates\TimeBetweenTwoDates\bin\Debug\TimeBetweenTwoDates.pdb
+c:\users\brett\documents\visual studio 2015\Projects\TimeBetweenTwoDates\TimeBetweenTwoDates\obj\Debug\TimeBetweenTwoDates.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\TimeBetweenTwoDates\TimeBetweenTwoDates\obj\Debug\TimeBetweenTwoDates.exe
+c:\users\brett\documents\visual studio 2015\Projects\TimeBetweenTwoDates\TimeBetweenTwoDates\obj\Debug\TimeBetweenTwoDates.pdb
